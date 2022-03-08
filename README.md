@@ -71,6 +71,15 @@ Nauczyłem się:**
 - jak poprawnie tworzyć raporty z błędów,
 - korzystać z platformy BrowserStack,
 - jak testuje sie eksploracyjnie aplikacje.
+* **Kurs Selenium Python od podstaw(w trakcie)
+Nauczyłem się:**
+- podstaw języka programowania Python,
+- tworzenia testów automatycznych używając języka programowania Python,
+- podstawowych i bardziej zaawansowanych technik tworzenia testów w Selenium,
+- tworzyć raporty z testów,
+- tworzenia testów automatycznych aplikacji internetowych,
+- lokalizować elementy na stronie i wykonywać na nich akcję,
+- czytania dane z pliku.
 ## Książki techniczne
 
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
