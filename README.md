@@ -42,7 +42,7 @@ Poznałem:**
 * **Selenium IDE - Kompletny kurs od podstaw.
 Nauczyłem się:**
 - automatycznego testowania stron internetowych,
-- jak szybkio tworzyć testy automatycznye za pomocą nagrywania i odtwarzania interakcji z przeglądarką,
+- jak szybko tworzyć testy automatycznye za pomocą nagrywania i odtwarzania interakcji z przeglądarką,
 - pisania podstawowych testów w Selenium IDE,
 - lokalizowania elementów na stronach internetowych (w kodzie HTML/XML),
 - podstawowego zrozumienia CSS Selectorów,
@@ -79,7 +79,7 @@ Nauczyłem się:**
 - tworzyć raporty z testów,
 - tworzenia testów automatycznych aplikacji internetowych,
 - lokalizować elementy na stronie i wykonywać na nich akcję,
-- czytania dane z pliku.
+- czytania danych z pliku.
 ## Książki techniczne
 
 * [Testowanie Oprogramowania](https://pwicherski.gitbook.io)
