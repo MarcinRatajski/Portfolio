@@ -2,24 +2,26 @@
 
 ## O mnie
 
-Nazywam się Marcin Ratajski. Jestem absolwentem Wyższej Szkoły Bezpieczeństwa w Poznaniu na kierunku "bezpieczeństwo zdrowotne" o specjalizacji "BHP i ochrona przeciwpożarowa w zakładzie pracy". Ukończyłem również Technikum Łączności w Zespole Szkół Łączności w Poznaniu, gdzie uzyskałem tytuł technika teleinformatyka. Po pewnym czasie od zakończenia szkolnej edukacji uświadomiłem sobie, że chcę spróbować przebranżowić się na testera oprogramowania, o którym (co uświadomiłem sobie póżniej) mało wiedziałem. Od tamtego czasu codziennie przeznaczam czas na edukację we własnym zakresie, po to, aby móc zostać testerem oprogramowania. 
+Nazywam się Marcin Ratajski. Jestem absolwentem Wyższej Szkoły Bezpieczeństwa w Poznaniu na kierunku "bezpieczeństwo zdrowotne" o specjalizacji "BHP i ochrona przeciwpożarowa w zakładzie pracy". Ukończyłem również Technikum Łączności w Zespole Szkół Łączności w Poznaniu, gdzie uzyskałem tytuł technika teleinformatyka. Po pewnym czasie od zakończenia szkolnej edukacji uświadomiłem sobie, że chcę spróbować przebranżowić się na testera oprogramowania. Od tamtego czasu staram się codziennie przeznaczać czas na edukację we własnym zakresie, po to, aby móc zostać lepszym testerem oprogramowania. Obecnie pracuje w firmie zajmującej się autorskim oprogramowaniem, jako "Młodszy tester oprogramowania".
 
 ## About me
 
-My name is Marcin Ratajski. I am a graduate of the Wyższa Szkoła Bezpieczeństwa in Poznan, majoring in "bezpieczeństwo zdrowotne" with a specialization in "BHP i ochrona przeciwpożarowa w zakładzie pracy". I also graduated from the Technikum Łączności w Zespole Szkół Łączności in Poznan, where I obtained the title "technik teleinformatyk". Some time after finishing my school education, I realized that I want to change my career path on software tester, which (as I realized later) I knew little about. Since then, I have set aside time every day to educate myself in order to become a software tester.
+My name is Marcin Ratajski. I am a graduate of the Wyższa Szkoła Bezpieczeństwa in Poznan, majoring in "bezpieczeństwo zdrowotne" with a specialization in "BHP i ochrona przeciwpożarowa w zakładzie pracy". I also graduated from the Technikum Łączności w Zespole Szkół Łączności in Poznan, where I obtained the title "technik teleinformatyk". Some time after finishing my school education, I realized that I want to change my career path on software tester. Since then, I have try to set aside time every day to educate myself in order to become a better software tester. Currently, I work in a company dealing with  software as "Junior Software Tester".
 
 ## Narzędzia przydatne przy testowaniu
 
 * PicPick
 * ShareX
-* notepad++
+* Notepad++
+* ScreetoGif
+* Generatory losowych danych (PESEl,EAN, itd)
 
 ## Umiejętności
 
 * ISTQB: Foundation Level - w trakcie nauki
 * Baza danych: MySQL (Podstawy)
 * Testowanie: Selenium IDE (Podstawy), Postman (w trakcie nauki)
-* Zarządzanie projektami: JIRA (Podstawy), Trello (Podstawy) 
+* Zarządzanie projektami: Redmine, JIRA (Podstawy), Trello (Podstawy), 
 * System kontroli wersji: Git (Podstawy)
 * Zarządzanie testami: Qtest (Podstawy)
 * Inne narzędzia: 
