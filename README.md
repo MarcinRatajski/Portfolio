@@ -15,6 +15,9 @@ My name is Marcin Ratajski. I am a graduate of the Wyższa Szkoła Bezpieczeńst
 * Notepad++
 * ScreetoGif
 * Generatory losowych danych (PESEl,EAN, itd)
+* Redmine
+* Screenpresso
+* Screen to gif
 
 ## Umiejętności
 
